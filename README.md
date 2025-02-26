@@ -61,7 +61,6 @@ Para poder construir tu LogicBox Touch puedes comprar un kit preensamblado de nu
 
 ### Cálculo del Tiempo de Uso
 Para calcular el tiempo de uso de la batería de 500mAh con el módulo TP 4056 y la pantalla CYD, consideramos el consumo de corriente de la pantalla y otros componentes. Suponiendo un consumo total de 100mA:
-
 \[ \text{Tiempo de uso} = \frac{\text{Capacidad de la batería}}{\text{Consumo total}} = \frac{500mAh}{100mA} = 5 \text{ horas} \]
 
 Por lo tanto, con una batería de 500mAh, el dispositivo puede funcionar aproximadamente 5 horas antes de necesitar recarga.
