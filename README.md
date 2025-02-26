@@ -21,6 +21,11 @@ El LogicBox Touch Pro integra puertos GPIO para la conexión de sensores y actua
 
 El dispositivo también incluirá herramientas virtuales educativas, simuladores de lógica digital y acceso a guías interactivas, ofreciendo una solución completa para la práctica y aprendizaje de la electrónica aplicada, con un enfoque modular y práctico que emula la experiencia de dispositivos como el Flipper Zero, adaptado para el entorno académico.
 
+# • Componentes del LogicBox Touch
+Para poder construir tu LogicBox Touch puedes comprar un kit preensamblado de nuestra empresa o conseguir los siguientes materiales: 
+
+<!--
+
 # Contenidos del Manual
 
 A continuación, se detallan los subtítulos que debería llevar el manual para guiar al usuario en el uso del LogicBox Touch 2025:
@@ -63,3 +68,5 @@ A continuación, se detallan los subtítulos que debería llevar el manual para 
 - Comunidad y Foros de Usuarios
 
 <hr>
+
+-->
