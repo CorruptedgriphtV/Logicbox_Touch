@@ -59,7 +59,39 @@ Para poder construir tu LogicBox Touch puedes comprar un kit preensamblado de nu
 - **Voltaje nominal:** 3.7V
 - **Tiempo de carga:** Aproximadamente 1 hora (con corriente de carga de 1A)
 - **Tiempo de uso** Aproximadamente 5 horas (brillo al 50%, standby 2 horas, sin perifericos conectados )
+### Encendido y Apagado del LogicBox Touch
 
+Para encender el LogicBox Touch, sigue estos pasos:
+
+1. Asegúrate de que la batería esté cargada o conecta el dispositivo a una fuente de alimentación mediante el cable USB.
+2. Presiona el botón de encendido ubicado en el lateral del dispositivo.
+3. Espera unos segundos hasta que la pantalla táctil se ilumine y muestre la pantalla de inicio.
+
+Para apagar el LogicBox Touch:
+
+1. Presiona el boton de apagado.
+2. Asegurate de cargar tu equipo al menos cada 2 semanas
+
+### Configuración Inicial
+
+1. Al encender el dispositivo por primera vez, entra en ajustes y edita las configuraciones.
+2. Utiliza el stylus o el dedo para interactuar con la pantalla táctil y completar la configuración inicial.
+
+### Uso del Stylus
+
+1. El stylus se utiliza para navegar por los menús y seleccionar opciones en la pantalla táctil.
+2. Toca suavemente la pantalla con el stylus para hacer selecciones.
+3. Para desplazarte por menús largos, desliza el stylus hacia arriba o hacia abajo en la pantalla.
+
+Con estos pasos, estarás listo para comenzar a usar tu LogicBox Touch y explorar todas sus funcionalidades.
+
+### Navegación por Menús
+
+1. La pantalla de inicio muestra varios iconos que representan las diferentes funciones del LogicBox Touch.
+2. Utiliza el stylus para tocar el icono de la función que deseas utilizar.
+3. Para volver a la pantalla anterior, toca el botón de retroceso en la esquina superior izquierda de la pantalla.
+
+Con estos pasos, podrás navegar fácilmente por los menús del LogicBox Touch y acceder a todas sus funciones.
 
 <!--
 
