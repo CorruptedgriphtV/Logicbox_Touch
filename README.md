@@ -6,11 +6,10 @@
 </div>
 
 
-
-Colaboradores autorizados a hacer cambios:
-EMILIO ESTEFAN ARREDONDO HINOSTROSA @corruptedgriphtv
-MELVI ESTRELLA LOPEZ CASTRO
-JOSAFAT CRUZ OJEDA
+- Colaboradores autorizados a hacer cambios:<br>
+    - EMILIO ESTEFAN ARREDONDO HINOSTROSA<br>
+    - MELVI ESTRELLA LOPEZ CASTRO<br>
+    - JOSAFAT CRUZ OJEDA<br>
 
 
 <hr>
