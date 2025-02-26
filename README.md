@@ -1,9 +1,18 @@
 <div align="center">
 
-# Manual
+# Manual LogicBox Touch 2025
+
 
 </div>
-# Introduccion
+Colaboradores autorizados a hacer cambios:
+EMILIO ESTEFAN ARREDONDO HINOSTROSA @corruptedgriphtv
+MELVI ESTRELLA LOPEZ CASTRO
+JOSAFAT CRUZ OJEDA
+
+
+<hr>
+
+# Introducción
 LogicBox Touch es un sistema que permite a los usuarios aprender lógica digital y programación básica en mecatrónica de manera interactiva. Es un dispositivo digital educativo portátil con una pantalla táctil (CYD - Cheap Yellow Display) que permite la interacción mediante un stylus, eliminando la necesidad de botones físicos.
 
 El LogicBox Touch Pro integra puertos GPIO para la conexión de sensores y actuadores, permitiendo realizar prácticas de circuitos electrónicos y proyectos basados en hardware real. Se propondrán dos prácticas para que el alumno pueda aprender a usar la herramienta. Además, se desarrollará una carcasa impresa en 3D para proteger y personalizar el dispositivo, optimizando su portabilidad y robustez.
