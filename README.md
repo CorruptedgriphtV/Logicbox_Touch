@@ -22,8 +22,49 @@ El LogicBox Touch Pro integra puertos GPIO para la conexión de sensores y actua
 El dispositivo también incluirá herramientas virtuales educativas, simuladores de lógica digital y acceso a guías interactivas, ofreciendo una solución completa para la práctica y aprendizaje de la electrónica aplicada, con un enfoque modular y práctico que emula la experiencia de dispositivos como el Flipper Zero, adaptado para el entorno académico.
 
 # • Componentes del LogicBox Touch
-Para poder construir tu LogicBox Touch puedes comprar un kit preensamblado de nuestra empresa o conseguir los siguientes materiales: 
+Para poder construir tu LogicBox Touch puedes comprar un kit preensamblado de nuestra empresa o conseguir los siguientes materiales que normalmente utilizamos para nuestros productos: 
+- Pantalla táctil TFT 
+- Microcontrolador compatible con Arduino (O COMPRAR CYD)
+- Módulo de alimentación TP-4056 
+- Bateria de litio de cualquier valor
+- Placa de expansión con puertos GPIO MCP23017
+- Sensores y actuadores (opcional)
+- Carcasa impresa en 3D (opcional)
+- Stylus para pantalla táctil
+- Cable USB para programación y carga
+- Manual de usuario y guías interactivas
+- Boton de prendido y apagado
 
+# • Especificaciones Técnicas
+
+
+### Pantalla Táctil CYD (Cheap Yellow Display)
+- **Tipo:** TFT
+- **Tamaño:** 2.4 pulgadas
+- **Resolución:** 320x240 píxeles
+- **Interfaz:** SPI
+- **Voltaje de operación:** 3.3V/5V
+- **Consumo de corriente:** 50mA (típico)
+- **Características adicionales:** Soporte para entrada táctil resistiva
+
+### Módulo de Alimentación TP 4056
+- **Tipo:** Cargador de batería de litio
+- **Voltaje de entrada:** 4.5V-5.5V
+- **Voltaje de salida:** 4.2V (carga completa)
+- **Corriente de carga:** 1A (ajustable)
+- **Protección:** Sobrecarga, sobrecorriente, cortocircuito
+
+### Batería de Litio
+- **Capacidad:** 500mAh
+- **Voltaje nominal:** 3.7V
+- **Tiempo de carga:** Aproximadamente 1 hora (con corriente de carga de 1A)
+
+### Cálculo del Tiempo de Uso
+Para calcular el tiempo de uso de la batería de 500mAh con el módulo TP 4056 y la pantalla CYD, consideramos el consumo de corriente de la pantalla y otros componentes. Suponiendo un consumo total de 100mA:
+
+\[ \text{Tiempo de uso} = \frac{\text{Capacidad de la batería}}{\text{Consumo total}} = \frac{500mAh}{100mA} = 5 \text{ horas} \]
+
+Por lo tanto, con una batería de 500mAh, el dispositivo puede funcionar aproximadamente 5 horas antes de necesitar recarga.
 <!--
 
 # Contenidos del Manual
