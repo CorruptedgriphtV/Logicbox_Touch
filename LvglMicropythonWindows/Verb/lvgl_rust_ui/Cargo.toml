@@ -1,0 +1,13 @@
+[package]
+name = "lvgl_rust_ui"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+lvgl = "0.7" # Use the latest compatible version of lvgl-rs
+lvgl-sys = { version = "0.7", features = ["lvgl_alloc_rust"] } # Match lvgl version
+# Use a simulator backend, e.g., SDL2
+lvgl_backend = { version = "0.1", features = ["sdl"], optional = true }
+
+[features]
+default = ["dep:lvgl_backend"] # Enable simulator by default
